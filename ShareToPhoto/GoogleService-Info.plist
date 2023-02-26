@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>328204103462-e9858gr7cj42q40242c7cntmtd6qu1c1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.328204103462-e9858gr7cj42q40242c7cntmtd6qu1c1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDImlvNfUTGVmXL9IoXmTKV70KJO4cdi1s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>328204103462</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ozgursalihdulger.ShareToPhoto</string>
+	<key>PROJECT_ID</key>
+	<string>sharetophoto-bfac0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sharetophoto-bfac0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:328204103462:ios:cd3d47c5798ee451411be7</string>
+</dict>
+</plist>
